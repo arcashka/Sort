@@ -1,6 +1,10 @@
-1) Создать .jar файл, это можно сделать, например, в ide Intellij IDEA.
+1) Скачать проект.
+
+2) Открыть скачанный проект с помощью Intellij IDEA.
+
+3) Создать .jar файл
 https://www.jetbrains.com/help/idea/2016.3/packaging-a-module-into-a-jar-file.html
 
-2) Запустить .jar файл можно из командной строки Windows.
+4) Запустить .jar файл можно из командной строки Windows.
 Пример запуска: 
 java -jar JAR_FILE_NAME.jar in.txt out.txt -i -a
